@@ -1,4 +1,4 @@
-![Gatsby](https://avatars.githubusercontent.com/u/116578301?s=200&v=4)
+An open-source platform designed to bridge the digital divide between rural and urban communities in Cameroon by providing offline digital services to community members.
 
 
 ## GOON-V2
